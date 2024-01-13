@@ -1,0 +1,183 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    max-width: 800px;
+    border: 2px solid red;
+   display: grid;
+  grid-template-columns: repeat(3,1fr);
+ /* grid-template-columns: repeat(3,200px); */
+  
+
+}
+.items{
+    background-color: #487eb0;
+    color: aliceblue;
+    padding: 10px;
+    border: 2px solid black;
+}
+.arman{
+    border: 5px solid red;
+    background-color: rgb(115, 236, 236);
+    width: 755px;
+    padding: 20px 20px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container2{
+    max-width: 800px;
+    border: 2px solid red;
+    /* margin:100px auto; */
+    display: grid;
+   grid-template-columns: 100px 300px auto;
+  
+   
+
+}
+.ihsan{
+    background-color: #487eb0;
+    color: aliceblue;
+    padding: 20px;
+    border: 2px solid black;
+}
+.amin{
+   border: 5px solid black;
+   background-color: bisque;
+   width:755px ;
+   padding: 20px 20px; 
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container3{
+    max-width: 800px;
+    border: 2px solid red;
+   display: grid;
+  grid-template-columns:100px 300px 100px;
+ column-gap: 30px;
+  
+
+}
+.danyal{
+    background-color: #487eb0;
+    color: aliceblue;
+    padding: 10px;
+    border: 2px solid black;
+}
+.wazir{
+    border: 5px solid red;
+    background-color: rgb(115, 236, 236);
+    width: 755px;
+    padding: 20px 20px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container4{
+    max-width: 800px;
+    border: 2px solid red;
+   display: grid;
+  grid-template-columns:100px 300px 100px;
+ row-gap: 30px;
+ 
+
+}
+.lucky{
+    background-color: #487eb0;
+    color: aliceblue;
+    padding: 10px;
+    border: 2px solid black;
+}
+.mehsood{
+    border: 5px solid red;
+    background-color: rgb(115, 236, 236);
+    width: 755px;
+    padding: 20px 20px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container5{
+    max-width: 800px;
+    border: 2px solid red;
+   display: grid;
+  /* grid-template-columns:repeat(2 1fr); */
+  grid-template-rows:100px 50px 100px;
+ /* grid-auto-rows: 100px; */
+
+ 
+
+}
+.fazal{
+    background-color: #487eb0;
+    color: aliceblue;
+    /* padding: 10px; */
+    border: 2px solid black;
+}
+.danish1{
+    border: 5px solid red;
+    background-color: rgb(115, 236, 236);
+    width: 795px;
+    /* padding: 20px 20px; */
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container6{
+    max-width: 800px;
+    border: 2px solid red;
+    /* margin:100px auto; */
+    display: grid;
+   grid-template-columns: 100px 200px 100px;
+  
+   
+
+}
+.waheed{
+    background-color: #487eb0;
+    color: aliceblue;
+    padding: 20px;
+    border: 2px solid black;
+}
+.waheed1{
+   grid-column-start: 1;
+   grid-column-end: 3;
+} 
+.farman{
+   border: 5px solid black;
+   background-color: bisque;
+   width:755px ;
+   padding: 20px 20px; 
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container7{
+    max-width: 800px;
+    border: 2px solid red;
+   display: grid;
+  grid-template-rows: 50px 100px 50px;
+ /* grid-auto-rows: 100px; */
+grid-template-rows:100 repeat(3,1fr);
+ 
+
+}
+.khan{
+    background-color: #487eb0;
+    color: aliceblue;
+    /* padding: 10px; */
+    border: 2px solid black;
+}
+.danish2{
+    border: 5px solid red;
+    background-color: rgb(115, 236, 236);
+    width: 795px;
+    /* padding: 20px 20px; */
+}
+
+
+
+
+
